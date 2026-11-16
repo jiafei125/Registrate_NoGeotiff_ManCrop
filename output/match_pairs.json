@@ -1,0 +1,301 @@
+[
+  {
+    "pt_optical_px": [
+      196.0,
+      1172.0
+    ],
+    "pt_sar_px": [
+      287.0,
+      1221.0
+    ],
+    "descriptor_distance": 0.061175864189863205,
+    "reprojection_error_px": 6.872268164110845,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      303.0,
+      891.0
+    ],
+    "pt_sar_px": [
+      399.0,
+      930.0
+    ],
+    "descriptor_distance": 0.06788991391658783,
+    "reprojection_error_px": 9.261222949590397,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      321.0,
+      813.0
+    ],
+    "pt_sar_px": [
+      410.0,
+      862.0
+    ],
+    "descriptor_distance": 0.06847437471151352,
+    "reprojection_error_px": 2.4516919576551786,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      227.0,
+      1495.0
+    ],
+    "pt_sar_px": [
+      331.0,
+      1544.0
+    ],
+    "descriptor_distance": 0.06986763328313828,
+    "reprojection_error_px": 2.9816211574565297,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      1127.0,
+      1242.0
+    ],
+    "pt_sar_px": [
+      1220.0,
+      1268.0
+    ],
+    "descriptor_distance": 0.0699051097035408,
+    "reprojection_error_px": 5.91004258673033,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      305.0,
+      752.0
+    ],
+    "pt_sar_px": [
+      393.0,
+      801.0
+    ],
+    "descriptor_distance": 0.07016080617904663,
+    "reprojection_error_px": 2.194501164702258,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      453.0,
+      890.0
+    ],
+    "pt_sar_px": [
+      538.0,
+      929.0
+    ],
+    "descriptor_distance": 0.070548877120018,
+    "reprojection_error_px": 8.995072116707393,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      279.0,
+      506.0
+    ],
+    "pt_sar_px": [
+      367.0,
+      564.0
+    ],
+    "descriptor_distance": 0.07156548649072647,
+    "reprojection_error_px": 8.536499638698539,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      1176.0,
+      1028.0
+    ],
+    "pt_sar_px": [
+      1268.0,
+      1061.0
+    ],
+    "descriptor_distance": 0.07162532210350037,
+    "reprojection_error_px": 1.6998249917155974,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      367.0,
+      825.0
+    ],
+    "pt_sar_px": [
+      459.0,
+      864.0
+    ],
+    "descriptor_distance": 0.0718580037355423,
+    "reprojection_error_px": 7.807128017522817,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      342.0,
+      863.0
+    ],
+    "pt_sar_px": [
+      436.0,
+      902.0
+    ],
+    "descriptor_distance": 0.07235398143529892,
+    "reprojection_error_px": 8.30534844343227,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      873.0,
+      152.0
+    ],
+    "pt_sar_px": [
+      952.0,
+      193.0
+    ],
+    "descriptor_distance": 0.07237673550844193,
+    "reprojection_error_px": 1.9934288904890693,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      1058.0,
+      664.0
+    ],
+    "pt_sar_px": [
+      1136.0,
+      705.0
+    ],
+    "descriptor_distance": 0.07466518133878708,
+    "reprojection_error_px": 8.950250136301873,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      137.0,
+      686.0
+    ],
+    "pt_sar_px": [
+      228.0,
+      738.0
+    ],
+    "descriptor_distance": 0.07500731199979782,
+    "reprojection_error_px": 1.489426844657845,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      692.0,
+      782.0
+    ],
+    "pt_sar_px": [
+      775.0,
+      828.0
+    ],
+    "descriptor_distance": 0.0757322609424591,
+    "reprojection_error_px": 7.445827362256065,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      607.0,
+      1126.0
+    ],
+    "pt_sar_px": [
+      709.0,
+      1164.0
+    ],
+    "descriptor_distance": 0.07577607780694962,
+    "reprojection_error_px": 7.573378325545719,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      1072.0,
+      1257.0
+    ],
+    "pt_sar_px": [
+      1173.0,
+      1291.0
+    ],
+    "descriptor_distance": 0.07638968527317047,
+    "reprojection_error_px": 5.906888152541301,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      119.0,
+      550.0
+    ],
+    "pt_sar_px": [
+      198.0,
+      601.0
+    ],
+    "descriptor_distance": 0.07722927629947662,
+    "reprojection_error_px": 8.471691998133624,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      1119.0,
+      1230.0
+    ],
+    "pt_sar_px": [
+      1211.0,
+      1263.0
+    ],
+    "descriptor_distance": 0.07747095078229904,
+    "reprojection_error_px": 2.8461693482502417,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      89.0,
+      731.0
+    ],
+    "pt_sar_px": [
+      178.0,
+      790.0
+    ],
+    "descriptor_distance": 0.07934176176786423,
+    "reprojection_error_px": 7.190901569152641,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      66.0,
+      535.0
+    ],
+    "pt_sar_px": [
+      156.0,
+      590.0
+    ],
+    "descriptor_distance": 0.08047017455101013,
+    "reprojection_error_px": 3.1476819384536947,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      786.0,
+      740.0
+    ],
+    "pt_sar_px": [
+      882.0,
+      783.0
+    ],
+    "descriptor_distance": 0.08117019385099411,
+    "reprojection_error_px": 8.955048659298955,
+    "matching_method": "rift2_fsc"
+  },
+  {
+    "pt_optical_px": [
+      806.0,
+      764.0
+    ],
+    "pt_sar_px": [
+      901.0,
+      803.0
+    ],
+    "descriptor_distance": 0.08297764509916306,
+    "reprojection_error_px": 7.0723530440737665,
+    "matching_method": "rift2_fsc"
+  }
+]
